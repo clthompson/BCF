@@ -1,0 +1,535 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"di",
+				"DIV	Tag"
+			],
+			[
+				"back",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/J/Training/Foundation - Incorporating Sass and Compass/Exercise Files/wisdompets/index.html",
+			"settings":
+			{
+				"buffer_size": 5258,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 4409,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/J/Training/Foundation - Incorporating Sass and Compass/Exercise Files/wisdompets/sass/app.scss",
+			"settings":
+			{
+				"buffer_size": 2486,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/J/Training/Foundation - Incorporating Sass and Compass/Exercise Files/wisdompets/sass/_settings.scss",
+			"settings":
+			{
+				"buffer_size": 36712,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/J/Training/Foundation - Incorporating Sass and Compass/Exercise Files/wisdompets/sass/_normalize.scss",
+			"settings":
+			{
+				"buffer_size": 7580,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/J/Training/Foundation - Incorporating Sass and Compass/Exercise Files/wisdompets/sass/_foundation.scss",
+			"settings":
+			{
+				"buffer_size": 1518,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/J/Training/Foundation - Incorporating Sass and Compass/Exercise Files/wisdompets/sass/foundation/components/_type.scss",
+			"settings":
+			{
+				"buffer_size": 10943,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"git st",
+				"Git: Status"
+			],
+			[
+				"git h",
+				"Git: Commit history"
+			],
+			[
+				"readme",
+				"ReadmePlease"
+			],
+			[
+				"pack i",
+				"Package Control: Install Package"
+			],
+			[
+				"pack I",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"synt js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"snip",
+				"Snippet: Function"
+			],
+			[
+				"synt j",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"synt ht",
+				"Set Syntax: HTML"
+			]
+		],
+		"width": 440.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/J/Training/Foundation - Incorporating Sass and Compass/Exercise Files/wisdompets/sass/foundation/components/_block-grid.scss",
+		"/J/Training/Foundation - Incorporating Sass and Compass/Exercise Files/wisdompets/sass/_custom.scss",
+		"/J/Training/Foundation - Incorporating Sass and Compass/Exercise Files/wisdompets/css/app.css",
+		"/Z/Public/$BCF_Website/Development/002-Production/sass/app.scss",
+		"/J/Training/Foundation - Incorporating Sass and Compass/Exercise Files/wisdompets/sass/app.scss",
+		"/Z/Public/$BCF_Website/Development/002-Production/sass/_custom.scss",
+		"/J/Training/Foundation - Incorporating Sass and Compass/Exercise Files/wisdompets/services.html",
+		"/J/Training/Foundation - Incorporating Sass and Compass/Exercise Files/wisdompets/dogs.html",
+		"/J/Training/Foundation - Incorporating Sass and Compass/Exercise Files/wisdompets/about.html",
+		"/Z/Public/$BCF_Website/Development/001-TestGit/css/foundation.css",
+		"/Z/Public/$BCF_Website/Development/002-Production/config.rb",
+		"/J/Training/Foundation - Incorporating Sass and Compass/Exercise Files/wisdompets/config.rb",
+		"/J/Training/CSS with LESS and Sass/Exercise Files/ExampleSnippets.txt",
+		"/J/Training/CSS with LESS and Sass/Exercise Files",
+		"/J/Training/CSS with LESS and Sass/Exercise Files/Ch5/import_styles.css",
+		"/J/Training/CSS with LESS and Sass/Exercise Files/Ch5/import_me.scss",
+		"/J/Training/CSS with LESS and Sass/Exercise Files/Ch5/import_styles.scss",
+		"/J/Training/CSS with LESS and Sass/Exercise Files/Ch5/SASS_SampleDoc.html",
+		"/J/Training/CSS with LESS and Sass/Exercise Files/Ch5/format_styles.css",
+		"/J/Training/CSS with LESS and Sass/Exercise Files/Ch5/format_styles.scss",
+		"/J/Training/CSS with LESS and Sass/Exercise Files/Ch5/funcs_styles.css",
+		"/J/Training/CSS with LESS and Sass/Exercise Files/Ch5/funcs_styles.scss",
+		"/J/Training/CSS with LESS and Sass/Exercise Files/Ch5/mixargs_styles.css",
+		"/J/Training/CSS with LESS and Sass/Exercise Files/Ch5/mixargs_styles.scss",
+		"/J/Training/CSS with LESS and Sass/Exercise Files/Ch4/ops_styles.css",
+		"/J/Training/CSS with LESS and Sass/Exercise Files/Ch4/ops_styles.scss",
+		"/J/Training/CSS with LESS and Sass/Exercise Files/Ch4/SASS_SampleDoc.html",
+		"/J/Training/CSS with LESS and Sass/Exercise Files/Ch4/mixin_styles.scss",
+		"/J/Training/CSS with LESS and Sass/Exercise Files/Ch4/mixin_styles.css",
+		"/J/Training/CSS with LESS and Sass/Exercise Files/Ch4/nested_styles.scss",
+		"/J/Training/CSS with LESS and Sass/Exercise Files/Ch4/var_styles.scss",
+		"/J/Training/CSS with LESS and Sass/Exercise Files/Ch4/nested_styles.css",
+		"/J/Training/CSS with LESS and Sass/Exercise Files/Ch1/FirstSassExample.html",
+		"/J/Training/CSS with LESS and Sass/Exercise Files/Ch1/styles.css",
+		"/J/Training/CSS with LESS and Sass/Exercise Files/Ch1/styles.scss",
+		"/J/Training/CSS with LESS and Sass/Exercise Files/Ch4/var_styles.css",
+		"/J/Training/CSS with LESS and Sass/Exercise Files/Ch4/123.css",
+		"/J/Training/CSS with LESS and Sass/Exercise Files/Ch1/styles.less",
+		"/J/Training/Foundation - Incorporating Sass and Compass/Exercise Files/wisdompets/index.html",
+		"/C/Users/jdoe/AppData/Roaming/Sublime Text 2/Packages/User/LineEndings.sublime-settings",
+		"/Z/Public/$BCF_Website/Development/001-TestGit/001-TestGit.sublime-project",
+		"/Z/Public/$BCF_Website/Development/001-TestGit/practice.html",
+		"/Z/Public/$BCF_Website/Development/001-TestGit/index.html",
+		"/C/Users/jdoe/AppData/Roaming/Sublime Text 2/Packages/User/Emmet.sublime-settings",
+		"/C/Users/jdoe/AppData/Roaming/Sublime Text 2/Packages/SideBarEnhancements/readme.md",
+		"/C/Users/jdoe/AppData/Roaming/Sublime Text 2/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/C/Users/jdoe/AppData/Roaming/Sublime Text 2/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/C/Users/jdoe/AppData/Roaming/Sublime Text 2/Packages/User/Side Bar.sublime-settings",
+		"/C/Users/jdoe/AppData/Roaming/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/C/Users/jdoe/AppData/Roaming/Sublime Text 2/Packages/LineEndings/LineEndings.sublime-settings",
+		"/C/Users/jdoe/AppData/Roaming/Sublime Text 2/Installed Packages/Package Control.sublime-package",
+		"/C/Users/jdoe/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/jdoe/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/jdoe/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/jdoe/AppData/Roaming/Sublime Text 2/Packages/User/Distraction Free.sublime-settings",
+		"/C/Users/jdoe/AppData/Roaming/Sublime Text 2/Packages/User/JSON.sublime-settings",
+		"/C/Users/jdoe/AppData/Roaming/Sublime Text 2/Packages/User/HTML.sublime-settings",
+		"/C/Users/jdoe/Downloads/Foundation-4.3.2/5-solution.html",
+		"/C/Users/jdoe/Downloads/Foundation-4.3.2/css/app.css",
+		"/C/Users/jdoe/Downloads/Foundation-4.3.2/css/foundation.css",
+		"/C/Users/jdoe/Downloads/Up and Running with Sublime Text 2/Exercise Files/roux_website/_scripts/SpryTabbedPanels.js",
+		"/C/Users/jdoe/Downloads/Up and Running with Sublime Text 2/Exercise Files/roux_website/index.htm",
+		"/Z/Public/$BCF_Website/Development/001-TestGit/css/app.css",
+		"/C/Users/jdoe/Downloads/Foundation-4.3.2/5-sections.html",
+		"/C/Users/jdoe/Downloads/Foundation-4.3.2/5-reveal.html",
+		"/C/Users/jdoe/Downloads/Foundation-4.3.2/5-orbit.html",
+		"/C/Users/jdoe/Downloads/Foundation-4.3.2/5-clearing.html",
+		"/C/Users/jdoe/Downloads/Foundation-4.3.2/4-breadcrumbs.html",
+		"/C/Users/jdoe/Downloads/Foundation-4.3.2/3-stylechallenge.html",
+		"/C/Users/jdoe/Downloads/Foundation-4.3.2/3-visibility.html",
+		"/C/Users/jdoe/Downloads/Foundation-4.3.2/3-overridecss.html",
+		"/C/Users/jdoe/Downloads/Foundation-4.3.2/3-video.html",
+		"/C/Users/jdoe/Downloads/Foundation-4.3.2/3-thumbnails.html",
+		"/C/Users/jdoe/Downloads/Foundation-4.3.2/3-panels.html",
+		"/C/Users/jdoe/Downloads/Foundation-4.3.2/3-buttons.html",
+		"/C/Users/jdoe/Downloads/Foundation-4.3.2/3-lists.html",
+		"/C/Users/jdoe/Downloads/Foundation-4.3.2/3-typography.html",
+		"/C/Users/jdoe/Downloads/Foundation-4.3.2/gridchallenge.html",
+		"/C/Users/jdoe/Downloads/Foundation-4.3.2/blockgrid.html",
+		"/C/Users/jdoe/Downloads/Foundation-4.3.2/sourceordering.html",
+		"/C/Users/jdoe/Downloads/Foundation-4.3.2/nestedgrids-start.html",
+		"/C/Users/jdoe/Downloads/Foundation-4.3.2/grid.html",
+		"/C/Users/jdoe/Downloads/Foundation-4.3.2/code snippets.txt",
+		"/C/Users/jdoe/Downloads/Foundation-4.3.2/start.html",
+		"/C/Users/jdoe/Downloads/Foundation-4.3.2/html document codes.txt"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\Users\\jdoe\\Downloads\\Foundation-4.3.2"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"1.875",
+			"<p>",
+			"			<p>We",
+			"div",
+			"\"",
+			"row",
+			"normalize",
+			"co"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/J/Training/Foundation - Incorporating Sass and Compass/Exercise Files/wisdompets/index.html",
+					"settings":
+					{
+						"buffer_size": 5258,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4698,
+								4698
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1298.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 4409,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/J/Training/Foundation - Incorporating Sass and Compass/Exercise Files/wisdompets/sass/app.scss",
+					"settings":
+					{
+						"buffer_size": 2486,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1131,
+								1132
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/J/Training/Foundation - Incorporating Sass and Compass/Exercise Files/wisdompets/sass/_settings.scss",
+					"settings":
+					{
+						"buffer_size": 36712,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6137,
+								6159
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/J/Training/Foundation - Incorporating Sass and Compass/Exercise Files/wisdompets/sass/_normalize.scss",
+					"settings":
+					{
+						"buffer_size": 7580,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1630.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/J/Training/Foundation - Incorporating Sass and Compass/Exercise Files/wisdompets/sass/_foundation.scss",
+					"settings":
+					{
+						"buffer_size": 1518,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/J/Training/Foundation - Incorporating Sass and Compass/Exercise Files/wisdompets/sass/foundation/components/_type.scss",
+					"settings":
+					{
+						"buffer_size": 10943,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								802,
+								824
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 135.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 118.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"doc",
+				"css/foundation.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 205.0,
+	"status_bar_visible": true
+}
